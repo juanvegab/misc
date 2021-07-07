@@ -528,3 +528,7 @@ svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeLarge {
 h2 {
     color: #121212 !important;
 }
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss1.MuiButton-containedPrimary {
+    background: #121212 !important;
+}
