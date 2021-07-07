@@ -530,5 +530,9 @@ h2 {
 }
 
 button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss1.MuiButton-containedPrimary {
-    background: #121212 !important;
+    background: #121212;
+}
+
+.MuiInput-underline:after {
+    border-bottom: 2px solid #121212 !important;
 }
