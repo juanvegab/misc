@@ -517,3 +517,14 @@ body {
     padding: 6px 0px 7px;
     border: none !important;
 }
+.MuiInputBase-root.MuiInput-root.MuiInput-underline.jss2.MuiInputBase-fullWidth.MuiInput-fullWidth.MuiInputBase-multiline.MuiInput-multiline > textarea:focus {
+    box-shadow: none!important;
+}
+
+svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeLarge {
+    background: #121212 !important;
+}
+
+h2 {
+    color: #121212 !important;
+}
