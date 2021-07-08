@@ -524,11 +524,7 @@ h2 {
     color: #121212 !important;
 }
 
-button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss1.MuiButton-containedPrimary {
-    background: #121212;
-}
-
-button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss15.MuiButton-containedPrimary {
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary {
     background-color: #121212;
 }
 
@@ -536,7 +532,7 @@ button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss15.MuiButton-con
     border-bottom: 2px solid #121212 !important;
 }
 
-.MuiBox-root.jss14.jss8 {
+ul li.MuiListItem-root .MuiBox-root {
     background-color: #121212;
 }
 
@@ -545,7 +541,7 @@ textarea.MuiInputBase-input.MuiInput-input.MuiInputBase-inputMultiline.MuiInput-
     box-shadow: none !important;
 }
 
-.MuiPaper-root.MuiCard-root.form.jss5.MuiPaper-elevation1.MuiPaper-rounded {
+.MuiPaper-root.MuiCard-root.form.MuiPaper-elevation1.MuiPaper-rounded {
     width: 100%;
     margin: 20px auto;
 }
