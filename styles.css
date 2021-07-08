@@ -531,3 +531,21 @@ button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss1.MuiButton-cont
 .MuiInput-underline:after {
     border-bottom: 2px solid #121212 !important;
 }
+
+.MuiBox-root.jss14.jss8 {
+    background-color: #121212;
+}
+
+textarea.MuiInputBase-input.MuiInput-input.MuiInputBase-inputMultiline.MuiInput-inputMultiline {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.MuiPaper-root.MuiCard-root.form.jss5.MuiPaper-elevation1.MuiPaper-rounded {
+    width: 100%;
+    margin: 20px auto;
+}
+
+ul.MuiList-root.jss6.MuiList-padding {
+    height: 82vh;
+}
