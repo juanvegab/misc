@@ -286,30 +286,30 @@ select{
     border:1px solid #CCCECE !important
 }
 .five9-action-btn{
-    border:1px solid #1E6A91 !important;
-    background-color:#288DC1 !important;
+    border:1px solid #0c0c0c !important;
+    background-color:#121212 !important;
     color:#fff !important;
     font-size:25px !important;
     line-height:.5
 }
 .five9-action-btn:hover:not(disabled){
-    background-color:#53A4CD !important
+    background-color:#3c3b3b !important
 }
 .five9-action-btn:focus:not(disabled){
     outline:none;
-    box-shadow:0 0 6px 0 #288DC1 !important
+    box-shadow:0 0 6px 0 #121212 !important
 }
 .five9-accept-btn{
-    border:1px solid #1E6A91 !important;
-    background-color:#288DC1 !important;
+    border:1px solid #0c0c0c !important;
+    background-color:#121212 !important;
     color:#fff !important
 }
 .five9-accept-btn:hover:not(disabled){
-    background-color:#53A4CD !important
+    background-color:#3c3b3b !important
 }
 .five9-accept-btn:focus:not(disabled){
     outline:none;
-    box-shadow:0 0 6px 0 #288DC1 !important
+    box-shadow:0 0 6px 0 #121212 !important
 }
 .five9-confirm-btn{
     border:1px solid #940B2D !important;
@@ -334,7 +334,7 @@ select{
 }
 .five9-cancel-btn:focus:not(disabled),.five9-aux-btn:focus:not(disabled){
     outline:none;
-    box-shadow:0 0 6px 0 #288DC1 !important
+    box-shadow:0 0 6px 0 #121212 !important
 }
 .five9-left-btn,.five9-right-btn{
     color:#fff !important;
@@ -347,7 +347,7 @@ select{
     opacity:1
 }
 .five9-link-btn{
-    color:#288DC1 !important
+    color:#121212 !important
 }
 .form-control input{
     color:#292F33 !important
@@ -368,12 +368,12 @@ div.message-container-agent div.message-container{
 }
 div.message-container-agent div.message-container a{
     font-weight:normal !important;
-    color:#288DC1 !important
+    color:#121212 !important
 }
 div.message-container-client div.message-container{
-    background-color:#288DC1 !important;
+    background-color:#121212 !important;
     color:#fff !important;
-    box-shadow:0 1px 0 #1E6A91 !important
+    box-shadow:0 1px 0 #0c0c0c !important
 }
 div.message-container-client div.message-container a{
     font-weight:normal !important;
@@ -397,7 +397,7 @@ div.typing{
 }
 #conversation-page #send-button{
     background:transparent !important;
-    color:#288DC1 !important
+    color:#121212 !important
 }
 #conversation-page #send-button:focus:not(disabled){
     border:1px solid #66afe9 !important;
@@ -420,7 +420,7 @@ div.typing{
     font-weight:bold !important
 }
 .provider-nine{
-    color:#288DC1 !important;
+    color:#121212 !important;
     font-weight:bold !important
 }
 #conversation-page .vivr-content,#conversation-page .vivr-button{
@@ -431,7 +431,7 @@ div.typing{
 }
 #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item{
     background:white !important;
-    color:#288DC1 !important
+    color:#121212 !important
 }
 #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item div.vivr-transfer-name{
     color:#292F33 !important
@@ -455,7 +455,7 @@ div.typing{
     background-image:url("../../images/channels/channel-video-default.png")
 }
 .hover-allowed #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item:hover{
-    background:#288DC1 !important;
+    background:#121212 !important;
     color:white !important
 }
 .hover-allowed #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item:hover div.vivr-transfer-name{
@@ -484,11 +484,6 @@ div.typing{
 /* Hide logo */
 .ui-logo{
     display: none!important;
-}
-
-/* Button color */
-.five9-action-btn, .five9-action-btn:hover:not(disabled){
-    background-color: #1C75DD!important;
 }
 
 /* Prevent select text */
