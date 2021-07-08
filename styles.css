@@ -528,6 +528,10 @@ button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss1.MuiButton-cont
     background: #121212;
 }
 
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss15.MuiButton-containedPrimary {
+    background-color: #121212;
+}
+
 .MuiInput-underline:after {
     border-bottom: 2px solid #121212 !important;
 }
