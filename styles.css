@@ -546,6 +546,6 @@ textarea.MuiInputBase-input.MuiInput-input.MuiInputBase-inputMultiline.MuiInput-
     margin: 20px auto;
 }
 
-ul.MuiList-root.jss6.MuiList-padding {
+ul.MuiList-root.MuiList-padding {
     height: 72vh;
 }
