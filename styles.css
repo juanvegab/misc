@@ -549,3 +549,7 @@ textarea.MuiInputBase-input.MuiInput-input.MuiInputBase-inputMultiline.MuiInput-
 .MuiCard-root .MuiCardContent-root ul.MuiList-root.MuiList-padding {
     height: 72vh!important;
 }
+
+p.MuiTypography-root.MuiListItemText-secondary.MuiTypography-body2.MuiTypography-colorTextSecondary.MuiTypography-displayBlock {
+    color: white;
+}
