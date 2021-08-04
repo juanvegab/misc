@@ -312,17 +312,17 @@ select{
     box-shadow:0 0 6px 0 #121212 !important
 }
 .five9-confirm-btn{
-    border:1px solid #940B2D !important;
-    background-color:#C50F3C !important;
+    border:1px solid #41373a !important;
+    background-color:#41373a !important;
     color:#fff !important
 }
 .five9-confirm-btn:hover:not(disabled){
-    background-color:#D80F49 !important;
+    background-color:#41373a !important;
     color:#fff !important
 }
 .five9-confirm-btn:focus:not(disabled){
     outline:none;
-    box-shadow:0 0 6px 0 #C50F3C !important
+    box-shadow:0 0 6px 0 #41373a !important
 }
 .five9-cancel-btn,.five9-aux-btn{
     border:1px solid #CCCECE !important;
@@ -534,6 +534,7 @@ button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-contained
 
 ul li.MuiListItem-root .MuiBox-root {
     background-color: #121212;
+    color: white;
 }
 
 textarea.MuiInputBase-input.MuiInput-input.MuiInputBase-inputMultiline.MuiInput-inputMultiline {
